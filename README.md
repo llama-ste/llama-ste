@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Llama-ste&fontAlign=70&fontAlignY=40&animation=twinkling)
+
+
+<h3 align=center>Hi there 👋 </3>
 
 <!--
 **llama-ste/llama-ste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
