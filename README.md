@@ -23,6 +23,8 @@
 </div>
 
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+
 <!--
 **llama-ste/llama-ste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
