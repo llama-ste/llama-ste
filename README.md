@@ -3,8 +3,8 @@
 
 <h3 align=center>Hi there 👋 </3>
 
-<h3 align="center">📌 Tech </h3>
-<p align="center">techs that i've used at least once</p>
+<h3 align="center">📌 STACK </h3>
+<p align="center"> Techs that I've usually used </p>
 <div align=center>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="61" height="61" /></div>
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <h3> Today 😎 </h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://github.com/llama-ste/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
 </div>
 
 
