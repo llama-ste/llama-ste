@@ -22,9 +22,7 @@
   <a href="https://github.com/llama-ste/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
 </div>
 
-<div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andong3282)](https://solved.ac/andong3282/)
-</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andong3282)](https://solved.ac/andong3282/)
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
