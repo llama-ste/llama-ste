@@ -24,9 +24,7 @@
 
 <br>
 
-<div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andong3282)](https://solved.ac/andong3282)
-</div>
 
 <br>
 
