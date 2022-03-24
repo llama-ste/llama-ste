@@ -9,13 +9,16 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="61" height="61" /></div>
 
-
+<div>
 <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"> &nbsp <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
+</div>
 
 <h3 align="center"> ME 🦙 </h3>
 
+<div>
 <a href="https://velog.io/@llama" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:andong1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
+</div>
+  
 <br>
 
   <h3> Today 😎 </h3>
