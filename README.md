@@ -27,9 +27,6 @@
 <br>
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andong3282)](https://solved.ac/andong3282)
-
-<br>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
